@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anujojha2001
-- 👀 I’m interested in Coding , android development.
-- 🌱 I’m currently learning DSA and Web development.
-- 💞️ I’m looking to collaborate on open source contribution.
+- Hi, I’m @anujojha2001
+- I’m interested in Coding , android and web development.
+- I’m currently learning DSA and Web development.
+- I’m looking to collaborate on open source contribution.
 
 <!---
 anujojha2001/anujojha2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
